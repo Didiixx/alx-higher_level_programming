@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * check_cycle - will checks if there is a cycle in the linked list
+ * check_cycle - will checks for a cycle 
  * @list: the linked list that must be checked
  *
  * Return: if the list has a cycle 1, if it doesn't 0
